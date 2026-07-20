@@ -1,0 +1,15 @@
+{
+  "docx": "D:\\003-AI制作\\003-Codex\\宽屏 AI 真人影视剧\\奔月\\文本\\奔月_正式分镜稿_V1.2.docx",
+  "zip_corrupt_member": null,
+  "package_file_count": 19,
+  "shot_rows": 114,
+  "final_time_seconds": 840,
+  "empty_shot_cells": [],
+  "sequence_errors": [],
+  "legacy_version_in_body": true,
+  "legacy_version_in_footer": false,
+  "forbidden_exact_sentence_present": false,
+  "music_cues_present": false,
+  "scene_heading_count": 16,
+  "status": "PASS"
+}

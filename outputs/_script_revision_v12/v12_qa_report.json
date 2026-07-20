@@ -1,0 +1,24 @@
+{
+  "output": "D:\\003-AI制作\\003-Codex\\宽屏 AI 真人影视剧\\奔月\\文本\\奔月_正式分镜稿_V1.2.docx",
+  "bytes": 81472,
+  "target_seconds": 840,
+  "validated_seconds": 840,
+  "scene_count": 16,
+  "shot_count": 114,
+  "next_shot_number": 115,
+  "scene_heading_count": 16,
+  "table_count": 24,
+  "section_count": 1,
+  "orientation": "LANDSCAPE (1)",
+  "page_width_in": 11.69,
+  "page_height_in": 8.27,
+  "forbidden_terms_found": [],
+  "required_terms": {
+    "小天": true,
+    "半弹道跳跃式再入": true,
+    "玄武岩熔融拉丝": true,
+    "无配乐": true,
+    "2029年4月8日": true,
+    "11.97°N": true
+  }
+}
