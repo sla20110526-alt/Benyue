@@ -1,0 +1,28 @@
+{
+  "output": "D:\\Ai影视制作\\2026项目\\002-2026项目\\000-Codex\\IP项目《奔月》\\文本\\奔月_正式分镜稿_V1.3.docx",
+  "bytes": 79410,
+  "target_seconds": 840,
+  "validated_seconds": 840,
+  "scene_count": 15,
+  "shot_count": 100,
+  "next_shot_number": 101,
+  "scene_heading_count": 15,
+  "table_count": 24,
+  "section_count": 1,
+  "orientation": "LANDSCAPE (1)",
+  "page_width_in": 11.69,
+  "page_height_in": 8.27,
+  "forbidden_terms_found": [],
+  "required_terms": {
+    "小天": true,
+    "半弹道跳跃式再入": true,
+    "玄武岩纤维": true,
+    "无配乐": true,
+    "2029年4月8日": true,
+    "11.97°N": true,
+    "东风着陆场": true,
+    "鹊桥二号": true,
+    "天链": true,
+    "T+28": true
+  }
+}

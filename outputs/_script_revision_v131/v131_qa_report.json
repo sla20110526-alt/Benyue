@@ -1,0 +1,29 @@
+{
+  "output": "D:\\Ai影视制作\\2026项目\\002-2026项目\\000-Codex\\IP项目《奔月》\\文本\\奔月_正式分镜稿_V1.3.1.docx",
+  "bytes": 87273,
+  "material_target_seconds": 1020,
+  "validated_seconds": 1020,
+  "final_edit_target_seconds": 840,
+  "scene_count": 15,
+  "shot_count": 119,
+  "docx_scene_heading_count": 15,
+  "docx_shot_count": 119,
+  "shot_ids_contiguous": true,
+  "empty_shot_cells": [],
+  "table_count": 25,
+  "section_count": 1,
+  "required_terms": {
+    "V1.3.1": true,
+    "建议生成素材": true,
+    "揽月无人": true,
+    "三把座椅": true,
+    "基于实时遥测的视觉重建": true,
+    "T+13:40": true,
+    "T+28:00": true,
+    "东风着陆场": true,
+    "半弹道跳跃式再入": true,
+    "无配乐": true
+  },
+  "forbidden_terms_found": [],
+  "passed": true
+}

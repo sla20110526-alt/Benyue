@@ -1,0 +1,41 @@
+{
+  "docx_exists": true,
+  "bytes": 79410,
+  "source_seconds": 840,
+  "target_seconds": 840,
+  "source_scene_count": 15,
+  "docx_scene_heading_count": 15,
+  "source_shot_count": 100,
+  "docx_shot_count": 100,
+  "shot_ids_contiguous": true,
+  "shot_ids_unique": true,
+  "empty_shot_cells": [],
+  "table_count": 24,
+  "section_count": 1,
+  "metadata_title": "《奔月》正式分镜稿 V1.3",
+  "required_terms": {
+    "三段直播": true,
+    "2029年4月6日": true,
+    "2029年4月8日": true,
+    "2029年4月13日": true,
+    "东风着陆场": true,
+    "鹊桥二号": true,
+    "环月大椭圆冻结轨道": true,
+    "天链": true,
+    "着陆 T+06:00": true,
+    "T+28小时": true,
+    "无配乐": true
+  },
+  "forbidden_active_wording_absent": {
+    "细小蓝点": true,
+    "望月呼号": true,
+    "青岛VLBI核心": true,
+    "服务舱观察室": true
+  },
+  "header_footer_v13": true,
+  "header_footer_parts": [
+    "word/footer1.xml",
+    "word/header1.xml"
+  ],
+  "passed": true
+}
