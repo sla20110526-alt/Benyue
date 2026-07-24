@@ -1,0 +1,22 @@
+{
+  "baseAssetCount": 176,
+  "activeBaseAssetCount": 158,
+  "historicalBaseAssetCount": 18,
+  "sceneViewRegistrations": 58,
+  "totalRegisterEntries": 234,
+  "categoryBaseCounts": {
+    "人物资产": 25,
+    "场景资产": 20,
+    "道具资产": 36,
+    "特殊资产": 65,
+    "声音资产": 30
+  },
+  "categoryRegisterCounts": {
+    "人物资产": 25,
+    "场景资产": 78,
+    "道具资产": 36,
+    "特殊资产": 65,
+    "声音资产": 30
+  },
+  "formulaErrorInspection": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}"
+}

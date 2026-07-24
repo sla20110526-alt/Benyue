@@ -1,0 +1,23 @@
+{
+  "formal_script": "文本/奔月_正式分镜稿_V1.3.1.docx",
+  "scene_count": 15,
+  "shot_count": 119,
+  "duration_seconds": 1020,
+  "shot_ids_contiguous": true,
+  "asset_count": 176,
+  "active_asset_count": 158,
+  "historical_asset_count": 18,
+  "duplicate_asset_ids": [],
+  "referenced_asset_count": 141,
+  "missing_referenced_ids": [],
+  "historical_ids_called": [],
+  "malformed_asset_ids": [],
+  "type_priority_mismatches": [],
+  "reconstruction_without_label": [],
+  "portable_camera_early_calls": [],
+  "portable_camera_missing_required_calls": [],
+  "required_expert_voices_registered": true,
+  "scene_map_count": 15,
+  "empty_visual_mappings": [],
+  "passed": true
+}
