@@ -4,3 +4,11 @@ Desktop.ini
 *.tmp
 __pycache__/
 *.pyc
+
+# 可再生成的文档构建、渲染与核查中间目录
+outputs/_p0_scene_prompts/
+outputs/_p13_01_all_people_prompt/
+outputs/_p13_01_prompt_v11/
+outputs/_reference_check/
+outputs/_xcflow_intake_v132/
+outputs/_tmp*/

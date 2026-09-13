@@ -3,6 +3,7 @@
 .gitignore text eol=lf
 *.md text eol=lf
 *.csv text eol=lf
+*.jsonl text eol=lf
 *.png binary
 *.jpg binary
 *.jpeg binary
